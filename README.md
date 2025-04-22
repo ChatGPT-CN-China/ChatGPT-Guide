@@ -1,6 +1,6 @@
 # ChatGPT 中文版：国内免费直连指南（支持GPT-4、4o、o1、o3 和 DeepSeek R1，无需翻墙）【4月最新】
 
-> **更新时间：2025/04/20**             
+> **更新时间：2025/04/22**             
 
 本文提供全面的 **[ChatGPT 中文版](https://chat.yixiaai.com)使用指南**，推荐国内镜像网站，支持GPT-4和GPT-3.5，无需翻墙。了解如何快速使用 **[ChatGPT 中文版](https://chat.chatgpt-chinese.com)**，提升工作效率。
 
@@ -9,6 +9,7 @@
 ## 快速开始 - 推荐的 ChatGPT 中文版服务：
 ChatGPT 中文版：[https://chat.yixiaai.com/](https://chat.yixiaai.com)   
 ChatGPT 镜像网站：[https://chat.lanjing.pro/](https://chat.lanjing.pro/) 
+
 
 ---
 
